@@ -2,11 +2,25 @@
 #EXTINF:-1 group-title="TV Nasional",GLOBALTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
+#EXTINF:-1 group-title="TV Nasional",MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional",RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional",INews
+https://delivery.macan.live/stream/id_inews/index.m3u8?token=3kvMSffD
+
 #EXTINF:-1 group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV Nasional",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Nasional",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -17,29 +31,23 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 group-title="TV Nasional",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 group-title="TV Nasional",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:-1 group-title="TV Nasional",KOMPAS TV SD
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 group-title="TV Nasional",SCTV SD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV Nasional",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="TV Nasional",KOMPAS TV SD
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 group-title="TV Nasional",RTV
 http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-
-#EXTINF:-1 group-title="TV Nasional",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -84,7 +92,6 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 
 #EXTINF:-1 group-title="TV Film",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-
 #EXTINF:-1 group-title="TV Film",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D3
 
@@ -98,3 +105,8 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Ninmedia",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TV SPORT",USEE SPORT
+http://zaman-now.com/﻿zxtvxz﻿/Indosiar_2
