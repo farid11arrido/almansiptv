@@ -73,6 +73,15 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 #EXTINF:-1 group-title="TV Hiburan",Arirang Korea
 https://livetvhooq.akamaized.net/2d3daea33e7849f4bcd48bb6396cbf2b/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1583303000~exp=9007200838043991~acl=/2d3daea33e7849f4bcd48bb6396cbf2b/*/profile_1/chunklist.m3u8*~hmac=c91d561a07e65ab03adb5e202a2d1125ae03ea10181d40f6d92aaa41b0ebacab
 
+#EXTINF:-1 group-title="TV Hiburan",AXN
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 group-title="TV Hiburan",SONY ONE ID
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 group-title="TV Hiburan",K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+
 
 
 
@@ -81,6 +90,16 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 
 #EXTINF:-1 group-title="TV Pengetahuan",NAT GEO WIILD 3
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Pengetahuan",CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+#EXTINF:-1 group-title="TV Pengetahuan",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
 
 
 
