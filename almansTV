@@ -8,6 +8,9 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 group-title="TV Nasional",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
+#EXTINF:-1 group-title="TV Nasional",RCTI SD
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/RCTI_2
+
 #EXTINF:-1 group-title="TV Nasional",INews
 https://delivery.macan.live/stream/id_inews/index.m3u8?token=3kvMSffD
 
@@ -22,11 +25,17 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Nasional",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="TV Nasional",CNBC INDONESIA
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/CNBC_Indonesia
+
 #EXTINF:-1 group-title="TV Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",ANTV
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:-1 group-title="TV Nasional",ANTV 2
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/ANTV
 
 #EXTINF:-1 group-title="TV Nasional",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
@@ -49,11 +58,20 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 #EXTINF:-1 group-title="TV Nasional",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
+#EXTINF:-1 group-title="TV Nasional",NET TV SD
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Net
+
 #EXTINF:-1 group-title="TV Nasional",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",TIC
 https://livetvhooq.akamaized.net/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1583302471~exp=9007200838043462~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_1/chunklist.m3u8*~hmac=816a5f345533c570b1450fa489e520792e2a32a82ce32255bf1874e63f3b39a5
+
+#EXTINF:-1 group-title="TV Nasional",MyTV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/MyTV
+
+#EXTINF:-1 group-title="TV Nasional",Jakarta Globe
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/JAKARTA_GLOBE
 
 
 
@@ -82,6 +100,19 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 #EXTINF:-1 group-title="TV Hiburan",K-Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
 
+#EXTINF:-1 group-title="TV Hiburan",Home And Living
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/home_living
+
+#EXTINF:-1 group-title="TV Hiburan",B Lifestyle
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/BLifeStyle
+
+#EXTINF:-1 group-title="TV Hiburan",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+
+#EXTINF:-1 group-title="TV Hiburan",Japanet Channel
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+
 
 
 
@@ -91,7 +122,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 group-title="TV Pengetahuan",NAT GEO WIILD 3
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:-1,EBS English
+#EXTINF:-1 group-title="TV Pengetahuan",EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Pengetahuan",CGTN DOCUMENTARY
@@ -115,18 +146,323 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 group-title="TV Film",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D3
 
+#EXTINF:-1 group-title="TV Film",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+
+#EXTINF:-1 group-title="TV Film",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+
+#EXTINF:-1 group-title="TV Film",Zee Bioskop
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+
+#EXTINF:-1 group-title="TV Film",Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="TV Film",Sinema Indonesia
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+
+
 
 
 #EXTINF:-1 group-title="TV Ninmedia",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Ninmedia",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
 #EXTINF:-1 group-title="TV Ninmedia",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Ninmedia",ADI TV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/ADI_TV
+
+#EXTINF:-1 group-title="TV Ninmedia",BantenTV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Baraya
+
+#EXTINF:-1 group-title="TV Ninmedia",RadarTV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Radar
 
 
-#EXTINF:-1 group-title="TV SPORT",USEE SPORT
-http://zaman-now.com/zxtvxz/Indosiar_2
+
+
+#EXTINF:-1 group-title="TV RELIGI",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV RELIGI",TV9 NUsantara
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Nusantara_TV
+
+#EXTINF:-1 group-title="TV RELIGI",RodjaTV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Rodja_TV
+
+
+
+
+#EXTINF:-1 group-title="TV SPORT",TVRI SPORT
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",SPORT TV Plus
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Sport
+
+#EXTINF:-1 group-title="TV SPORT",Fight TV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Fight
+
+#EXTINF:-1 group-title="TV SPORT",LIGA 1 Indonesia
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Indosiar_2
+
+
+
+#EXTINF:-1 group-title="TV Musik",KAROKE TV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Karaoke
+
+#EXTINF:-1 group-title="TV Musik",Music B
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/MusicB
+
+#EXTINF:-1 group-title="TV Musik",Clubbing TV
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Clubbing
+
+
+
+#EXTINF:-1 group-title="TV Anak",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+
+#EXTINF:-1 group-title="TV Anak",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="TV Anak",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 group-title="TV Anak",MioMI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="TV Anak",B KIDS
+http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/BKids
+
+
+
+
+#EXTINF:-1 group-title="TV Berita",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="TV Berita",NTV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Perabot Cintanya Ambyar Menembus Awan
+https://media-vidio-com.akamaized.net/uploads/1903728/ets-playlist-1200-8062f.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Terinfeksi Virus Tongseng yang Ku Mau
+https://media-vidio-com.akamaized.net/uploads/1903352/ets-playlist-1200-3e16a.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Nanti Kita Cerita Tentang Pukis Nangka
+https://media-vidio-com.akamaized.net/uploads/1903032/ets-playlist-1200-ec515.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Harta Tahta Cinta Sasha
+https://media-vidio-com.akamaized.net/uploads/1901941/ets-playlist-1200-8a412.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Culametan Met Met Di Playground
+https://media-vidio-com.akamaized.net/uploads/1900065/ets-playlist-1200-7c1b1.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Jangan Ada Sambel Diantara Kita
+https://media-vidio-com.akamaized.net/uploads/1898373/ets-playlist-700-0be50.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Kehaluan Hakiki Calon Manten
+https://media-vidio-com.akamaized.net/uploads/1897441/ets-playlist-1200-e1489.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku di Share Location ke Hati Kamu
+https://media-vidio-com.akamaized.net/uploads/1896851/ets-playlist-1200-79078.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",I Love 1000 Karung Beras
+https://media-vidio-com.akamaized.net/uploads/1896204/ets-playlist-1200-26b32.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cowok Gue Anak DWP (Dah Waktunya ke Penghulu)
+https://media-vidio-com.akamaized.net/uploads/1895027/ets-playlist-1200-572a3.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Virus Cinta Cewek Cincau
+https://media-vidio-com.akamaized.net/uploads/1893796/ets-playlist-1200-9f2fe.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
+https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Bucin Cinta Aku Bisa Apa
+https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Siapa Takut Cewek Galak?
+https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Badut Santuy To The Max
+https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Inem Asisten Seksi Repot
+https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
+https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
+https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
+https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
+https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
+https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
+https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
+https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
+https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
+https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
+https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
+https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
+https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
+https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
+https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
+https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
+https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
+https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
+https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
+https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar
+https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Click Bait Cinta si Tinggi
+https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
+https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
+https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
+https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
+https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
+https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Mas Jawara In Your Area
+https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
+https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Bidan KW Sobat Ambyar
+https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
+https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
+https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
+https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
+https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pacarannya Sama Gue Nikahnya Sama Dia
+https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Anak Geng Motor
+https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
+https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
+https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
+https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
+https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar
+https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
+https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Mantan Please Do Your Magic
+https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
+https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
+https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
+https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
+https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
+https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Bikin Romantis
+https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Semerbak di Florist
+https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
+https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Montir Sejagad
+https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
+https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Setangkai Rambutan Cinta
+https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Sang Juara No 27
+https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Hatiku di Skakmat by You
+https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Gadis +62 Lupa Cinta
+https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
+
+#EXTINF:-1 group-title="FTV Indonesia",Energi Cinta Cinderella Matre
+https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8#EXTM3U
+
