@@ -12,7 +12,7 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/RCTI_2
 
 #EXTINF:-1 group-title="TV Nasional",INews
-https://delivery.macan.live/stream/id_inews/index.m3u8?token=3kvMSffD
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8################################
 
 #EXTINF:-1 group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
