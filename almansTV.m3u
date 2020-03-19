@@ -37,8 +37,8 @@ https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1
 #EXTINF:-1 group-title="TV Nasional",INDOSIAR SD
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
 
-#EXTINF:-1 group-title="TV Nasional",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT1120820181124231541055276&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="TV Nasional",SCTV SD
+https://cdn-livetv1.metube.id/hls/sctv_240/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
