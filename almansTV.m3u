@@ -26,7 +26,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",CNBC INDONESIA
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/CNBC_Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 #EXTINF:-1 group-title="TV Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -34,17 +34,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1 group-title="TV Nasional",ANTV
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",ANTV 2
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/ANTV
-
 #EXTINF:-1 group-title="TV Nasional",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581829867~exp=9007200836570858~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=50f16cb11ea14a8c5d35a49afd5100bf625043ceb9af3c168e44b9954d4d9dde
 
 #EXTINF:-1 group-title="TV Nasional",INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",SCTV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/SCTV_2
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="TV Nasional",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -59,7 +56,7 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 group-title="TV Nasional",NET TV SD
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Net
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w73678906_b494100_sleng.m3u8?enc=WFTKtVrbbmSMKht1QjL2uw&exp=1584579333&encp=iaml_q3l7jI46QEY38cryA&expp=1584588033#EXTM3U
 
 #EXTINF:-1 group-title="TV Nasional",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -68,10 +65,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://livetvhooq.akamaized.net/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1583302471~exp=9007200838043462~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_1/chunklist.m3u8*~hmac=816a5f345533c570b1450fa489e520792e2a32a82ce32255bf1874e63f3b39a5
 
 #EXTINF:-1 group-title="TV Nasional",MyTV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/MyTV
+https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1580993292~exp=9007200835734283~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=50d700a3153371b565a4a445671834667b7c51771d1714632b7162cd9c5c574b
 
 #EXTINF:-1 group-title="TV Nasional",Jakarta Globe
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/JAKARTA_GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+
 
 
 
@@ -111,6 +109,9 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B73
 
 #EXTINF:-1 group-title="TV Hiburan",Japanet Channel
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+#EXTINF:-1 group-title="TV Hiburan",PRAMBOS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
 
 
@@ -179,6 +180,9 @@ http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Baraya
 #EXTINF:-1 group-title="TV Ninmedia",RadarTV
 http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Radar
 
+#EXTINF:-1,tvg-images2.useetv.com/logo_jitv_big.png" group-title="TV Ninmedia"JITV [Jogja]
+http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
+
 
 
 
@@ -186,11 +190,13 @@ http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Radar
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV RELIGI",TV9 NUsantara
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Nusantara_TV
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV RELIGI",RodjaTV
 http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Rodja_TV
 
+#EXTINF:-1,tvg-images2.useetv.com/logo_alquran_big1.png" group-title="TV RELIGI"LIVE MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 
 
 
@@ -225,8 +231,10 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 #EXTINF:-1 group-title="TV Anak",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="TV Anak",Disney Junior
+#EXTINF:-1 group-title="TV Anak",Disney Junior HD
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="TV Anak",Disney Junior SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 
 #EXTINF:-1 group-title="TV Anak",MioMI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
