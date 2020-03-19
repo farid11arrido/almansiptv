@@ -35,10 +35,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581829867~exp=9007200836570858~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=50f16cb11ea14a8c5d35a49afd5100bf625043ceb9af3c168e44b9954d4d9dde
 
 #EXTINF:-1 group-title="TV Nasional",INDOSIAR
-http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
 
 #EXTINF:-1 group-title="TV Nasional",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.178/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT1120820181124231541055276&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="TV Nasional",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
