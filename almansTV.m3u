@@ -31,9 +31,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 group-title="TV Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",ANTV
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
-
 #EXTINF:-1 group-title="TV Nasional",TV ONE
 https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581829867~exp=9007200836570858~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=50f16cb11ea14a8c5d35a49afd5100bf625043ceb9af3c168e44b9954d4d9dde
 
@@ -55,7 +52,7 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 #EXTINF:-1 group-title="TV Nasional",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
-#EXTINF:-1 group-title="TV Nasional",NET TV SD
+#EXTINF:-1 group-title="TV Nasional",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w73678906_b494100_sleng.m3u8?enc=WFTKtVrbbmSMKht1QjL2uw&exp=1584579333&encp=iaml_q3l7jI46QEY38cryA&expp=1584588033#EXTM3U
 
 #EXTINF:-1 group-title="TV Nasional",BERITA SATU
