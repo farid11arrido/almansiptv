@@ -107,11 +107,6 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 #EXTINF:-1 group-title="TV Hiburan",K-Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
 
-#EXTINF:-1 group-title="TV Hiburan",Home And Living
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/home_living
-
-#EXTINF:-1 group-title="TV Hiburan",B Lifestyle
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/BLifeStyle
 
 #EXTINF:-1 group-title="TV Hiburan",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
@@ -122,7 +117,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 #EXTINF:-1 group-title="TV Hiburan",PRAMBOS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
-
+#EXTINF:-1 group-title="TV Hiburan",AFN
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
 
 
 
@@ -171,6 +167,9 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="TV Film",Sinema Indonesia
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 
+#EXTINF:-1 group-title="TV Film",KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
 
 
 
@@ -180,16 +179,7 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Ninmedia",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Ninmedia",ADI TV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/ADI_TV
-
-#EXTINF:-1 group-title="TV Ninmedia",BantenTV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Baraya
-
-#EXTINF:-1 group-title="TV Ninmedia",RadarTV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Radar
-
-#EXTINF:-1,tvg-images2.useetv.com/logo_jitv_big.png" group-title="TV Ninmedia"JITV [Jogja]
+#EXTINF:-1,group-title="TV Ninmedia"JITV [Jogja]
 http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
 
 
@@ -201,9 +191,6 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV RELIGI",TV9 NUsantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV RELIGI",RodjaTV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Rodja_TV
-
 #EXTINF:-1,tvg-images2.useetv.com/logo_alquran_big1.png" group-title="TV RELIGI"LIVE MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 
@@ -212,14 +199,27 @@ http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 #EXTINF:-1 group-title="TV SPORT",TVRI SPORT
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 
-#EXTINF:-1 group-title="TV SPORT",SPORT TV Plus
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Sport
+#EXTINF:-1 group-title="TV SPORT",TRUE EPL 1HD
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
 
-#EXTINF:-1 group-title="TV SPORT",Fight TV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Fight
+#EXTINF:-1 group-title="TV SPORT",TRUE EPL 2HD
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
 
-#EXTINF:-1 group-title="TV SPORT",LIGA 1 Indonesia
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Indosiar_2
+#EXTINF:-1 group-title="TV SPORT",TRUE EPL 4HD
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",TRUE SPORT HD
+https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD2
+https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD4
+https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
+
 
 
 
@@ -248,8 +248,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 #EXTINF:-1 group-title="TV Anak",MioMI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="TV Anak",B KIDS
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/BKids
 
 
 
@@ -262,6 +260,129 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
 #EXTINF:-1 group-title="TV Berita",MNC News
 https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+
+#EXTINF:-1 group-title="TV Berita",BLOOMBREG ASIA
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m66d73ad88c4618200591&ct=17910&tsum=ffe8e7c92dfedfca0b35c46d14eb0afc
+
+#EXTINF:-1 group-title="TV MALAYSIA",CinemaWorld Malaysia
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",CinemaWorld Malaysia
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO MALAYSIA Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV2
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV9 BACKUP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",Drama Sangat BACKUP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",NTV8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",OKEY
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO RUUMA
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO GAYA
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO DISNEY
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",MEDIA CORP 8
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",MEDIA CORP 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",eGG Network
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",MY: TV2
+https://i.imgur.com/EI5RUGZ.jpg”
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+#EXTINF:-1 group-title="TV MALAYSIA",ASTRO GOSHOP
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV3 backup
+http://f9.liveiptv8k.com/stream.m3u8?id=b17a5d29222406a7c9892480b8bea930&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDoSTfTQH6a13UEujDNjfmAemkA6hECd33oedrTn3UTr3mEu562tHnS7i6QeLlQRSrASEpOf1JHeLSFgQ6RuTXQtanNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:-1 group-title="TV MALAYSIA",DRAMA SANGAT
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mw4pfvvFF9vv7k00A8CkKo)/dm/3/x6zvnex/s/live-2.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",OASIS backup
+http://f9.liveiptv8k.com/stream.m3u8?id=9c843e1446a3a73d27f79a6f3fbb2b00&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDohIrTpAACt3SA14645LlEdUnERntArEqoS10TfHNoQTmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:-1 group-title="TV MALAYSIA",COLORS
+http://fr-c.movply.stream/hls/Colors.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",RTM SPORTS
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+
 
 
 
@@ -580,588 +701,3 @@ https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="MANTUL",Vision Prime HD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/930.ts
-
-#EXTINF:-1 group-title="MANTUL",Liga 1 shopee+
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/919.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 1
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/893.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/894.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 3
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/895.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 4
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/896.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 5
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/897.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 6
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/898.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 7
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/899.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 8
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/900.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 10
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/902.ts
-
-#EXTINF:-1 group-title="MANTUL",ZA Super Sport 12
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/904.ts
-
-#EXTINF:-1 group-title="MANTUL",Nimo TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/912.ts
-
-#EXTINF:-1 group-title="MANTUL",Nimo TV 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/913.ts
-
-#EXTINF:-1 group-title="MANTUL",MTV Now
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/577.ts
-
-#EXTINF:-1 group-title="MANTUL",Prambors TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/933.ts
-
-#EXTINF:-1 group-title="MANTUL",Usee Prime
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/857.ts
-
-#EXTINF:-1 group-title="MANTUL",Usee Photo
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/858.ts
-
-#EXTINF:-1 group-title="MANTUL",Ruang Terampil
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/855.ts
-
-#EXTINF:-1 group-title="MANTUL",JTV Surabaya
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/852.ts
-
-#EXTINF:-1 group-title="MANTUL",JawaPos TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/853.ts
-
-#EXTINF:-1 group-title="MANTUL",Baby First TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/926.ts
-
-#EXTINF:-1 group-title="MANTUL",Outdoor
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/869.ts
-
-#EXTINF:-1 group-title="MANTUL",Supper Tennis
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/843.ts
-
-#EXTINF:-1 group-title="MANTUL",Sony Ten 3
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/841.ts
-
-#EXTINF:-1 group-title="MANTUL",Sony Ten 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/838.ts
-
-#EXTINF:-1 group-title="MANTUL",Sony Ten 1
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/837.ts
-
-#EXTINF:-1 group-title="MANTUL",Fox Sport 2 Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/793.ts
-
-#EXTINF:-1 group-title="MANTUL",Fox Sport 1 Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/792.ts
-
-#EXTINF:-1 group-title="MANTUL",Xing Kong
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/44.ts
-
-#EXTINF:-1 group-title="MANTUL",Nabawi TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/700.ts
-
-#EXTINF:-1 group-title="MANTUL",France 24
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/37.ts
-
-#EXTINF:-1 group-title="MANTUL",DW TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/36.ts
-
-#EXTINF:-1 group-title="MANTUL",Cahaya TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/377.ts
-
-#EXTINF:-1 group-title="MANTUL",BBC Lifestyle
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/60.ts
-
-#EXTINF:-1 group-title="MANTUL",AD Sport 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/634.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",ZooMoo FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/751.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Star Chinese Movies FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/768.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Russia Today FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/752.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",NHK World FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/782.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",National Geographic FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/776.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Nat Geo Wild FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/777.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Nat Geo People FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/778.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Love Nature 4K FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/753.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Hits FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/755.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",History FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/775.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",GEM FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/771.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FX FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/767.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FOX Sport 3 FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/786.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FOX Sport 1 FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/784.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FOX Life FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/762.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Fox FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/766.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FOX Crime FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/764.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",FOX Action Movies FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/765.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Discovery Channel FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/774.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Crime & Investigation FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/757.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Channel V Int FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/781.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Blue Ant Extreme FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/759.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Blue Ant Entertaiment FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/758.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Bloomberg FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/780.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",BBC World News FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/783.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Animax FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/769.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Animal Planet FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/772.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",AFN FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/760.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",E-Sport Channel (EGG)
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/750.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",CCM
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/884.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",ZooMoo
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/748.ts
-
-#EXTINF:-1 group-title="MANTUL",My TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/745.ts
-
-#EXTINF:-1 group-title="MANTUL",Love Nature 4K
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/744.ts
-
-#EXTINF:-1 group-title="MANTUL",Lifetime
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/743.ts
-
-#EXTINF:-1 group-title="MANTUL",Hits Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/741.ts
-
-#EXTINF:-1 group-title="MANTUL",Hits
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/742.ts
-
-#EXTINF:-1 group-title="MANTUL",France 24 FR
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/739.ts
-
-#EXTINF:-1 group-title="MANTUL",Crime & Investigation
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/738.ts
-
-#EXTINF:-1 group-title="MANTUL",Blue Ant Entertaiment
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/735.ts
-
-#EXTINF:-1 group-title="MANTUL",CGTN
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/737.ts
-
-#EXTINF:-1 group-title="MANTUL",CCTV4
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/736.ts
-
-#EXTINF:-1 group-title="MANTUL",Blue Ant Extreme
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/513.ts
-
-#EXTINF:-1 group-title="MANTUL",AFN
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/56.ts
-
-#EXTINF:-1 group-title="MANTUL",Liga Champion TV 1
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/629.ts
-
-#EXTINF:-1 group-title="MANTUL",Liga Champion TV 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/630.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",NET TV FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/12.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Metro TV FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/596.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",CNN Indonesia HD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/598.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",SCTV HD Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/447.ts
-
-#EXTINF:-1 group-title="MANTUL FHD",Indosiar HD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/645.ts
-
-#EXTINF:-1 group-title="MANTUL",E-TV MIX
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/932.ts
-
-#EXTINF:-1 group-title="MANTUL",ETV-INDO
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/697.ts
-
-#EXTINF:-1 group-title="MANTUL",E-TV Plus
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/574.ts
-
-#EXTINF:-1 group-title="MANTUL",TVRI
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/5.ts
-
-#EXTINF:-1 group-title="MANTUL",TV One
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/6.ts
-
-#EXTINF:-1 group-title="MANTUL",Trans TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/7.ts
-
-#EXTINF:-1 group-title="MANTUL",Trans TV Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/799.ts
-
-#EXTINF:-1 group-title="MANTUL",Trans 7
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/8.ts
-
-#EXTINF:-1 group-title="MANTUL",Trans 7 Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/800.ts
-
-#EXTINF:-1 group-title="MANTUL",Indosiar
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/23.ts
-
-#EXTINF:-1 group-title="MANTUL",SCTV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/9.ts
-
-#EXTINF:-1 group-title="MANTUL",ANTV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/26.ts
-
-#EXTINF:-1 group-title="MANTUL",Metro TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/14.ts
-
-#EXTINF:-1 group-title="MANTUL",Sinema Indonesia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/625.ts
-
-#EXTINF:-1 group-title="MANTUL",CNN Indonesia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/77.ts
-
-#EXTINF:-1 group-title="MANTUL",CNBC Indonesia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/428.ts
-
-#EXTINF:-1 group-title="MANTUL",O Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/11.ts
-
-#EXTINF:-1 group-title="MANTUL",E-TV Kids
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/812.ts
-
-#EXTINF:-1 group-title="MANTUL",Kompas TV HD Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/803.ts
-
-#EXTINF:-1 group-title="MANTUL",CITRA ENTERTAIMENT
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/810.ts
-
-#EXTINF:-1 group-title="MANTUL",Citra Bioskop
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/806.ts
-
-#EXTINF:-1 group-title="MANTUL",ANTV HD Backup
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/804.ts
-
-#EXTINF:-1 group-title="MANTUL",HomeLinks Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/43.ts
-
-#EXTINF:-1 group-title="MANTUL",Spacetoon
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/631.ts
-
-#EXTINF:-1 group-title="MANTUL",TV1
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/290.ts
-
-#EXTINF:-1 group-title="MANTUL",TV2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/291.ts
-
-#EXTINF:-1 group-title="MANTUL",TV 3
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/649.ts
-
-#EXTINF:-1 group-title="MANTUL",Drama Sangat
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/927.ts
-
-#EXTINF:-1 group-title="MANTUL",Astro Awani
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/821.ts
-
-#EXTINF:-1 group-title="MANTUL",E-TV Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/592.ts
-
-#EXTINF:-1 group-title="MANTUL",E - TV 21
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/622.ts
-
-#EXTINF:-1 group-title="MANTUL",Karaoke Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/252.ts
-
-#EXTINF:-1 group-title="MANTUL",Jakarta Globe News
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/340.ts
-
-#EXTINF:-1 group-title="MANTUL",EWTN
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/699.ts
-
-#EXTINF:-1 group-title="MANTUL",Salam TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/3.ts
-
-#EXTINF:-1 group-title="MANTUL",Rodja TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/19.ts
-
-#EXTINF:-1 group-title="MANTUL",Al Bahjah TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/925.ts
-
-#EXTINF:-1 group-title="MANTUL",Tahfiz TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/370.ts
-
-#EXTINF:-1 group-title="MANTUL",U Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/626.ts
-
-#EXTINF:-1 group-title="MANTUL",JTV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/22.ts
-
-#EXTINF:-1 group-title="MANTUL",Reformed 21
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/333.ts
-
-#EXTINF:-1 group-title="MANTUL",Ahsan TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/430.ts
-
-#EXTINF:-1 group-title="MANTUL",RCTI HD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/87.ts
-
-#EXTINF:-1 group-title="MANTUL",MNC TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/86.ts
-
-#EXTINF:-1 group-title="MANTUL",INews TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/82.ts
-
-#EXTINF:-1 group-title="MANTUL",Global TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/85.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Movies Premium
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/61.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Life
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/45.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Family Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/31.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Crime
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/49.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Action Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/33.ts
-
-#EXTINF:-1 group-title="MANTUL",Fox
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/2.ts
-
-#EXTINF:-1 group-title="MANTUL",FX
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/48.ts
-
-#EXTINF:-1 group-title="MANTUL",HBO FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/892.ts
-
-#EXTINF:-1 group-title="MANTUL",HBO Hits
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/124.ts
-
-#EXTINF:-1 group-title="MANTUL",HBO Family
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/125.ts
-
-#EXTINF:-1 group-title="MANTUL",HBO Signature
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/571.ts
-
-#EXTINF:-1 group-title="MANTUL",Red by HBO
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/378.ts
-
-#EXTINF:-1 group-title="MANTUL",Cinemax
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/192.ts
-
-#EXTINF:-1 group-title="MANTUL",Cinemax FHD
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/918.ts
-
-#EXTINF:-1 group-title="MANTUL",AXN
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/51.ts
-
-#EXTINF:-1 group-title="MANTUL",Celestial Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/108.ts
-
-#EXTINF:-1 group-title="MANTUL",KIX
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/91.ts
-
-#EXTINF:-1 group-title="MANTUL",Star Chinese Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/32.ts
-
-#EXTINF:-1 group-title="MANTUL",Thrill
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/106.ts
-
-#EXTINF:-1 group-title="MANTUL",Animax
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/53.ts
-
-#EXTINF:-1 group-title="MANTUL",Boomerang
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/365.ts
-
-#EXTINF:-1 group-title="MANTUL",Cartoon Network
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/224.ts
-
-#EXTINF:-1 group-title="MANTUL",Da Vinci Kids
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/69.ts
-
-#EXTINF:-1 group-title="MANTUL",Disney Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/68.ts
-
-#EXTINF:-1 group-title="MANTUL",Disney Junior
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/70.ts
-
-#EXTINF:-1 group-title="MANTUL",Nick Jr
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/353.ts
-
-#EXTINF:-1 group-title="MANTUL",Miao Mi
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/286.ts
-
-#EXTINF:-1 group-title="MANTUL",Arirang
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/52.ts
-
-#EXTINF:-1 group-title="MANTUL",K+
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/92.ts
-
-#EXTINF:-1 group-title="MANTUL",Sony One
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/42.ts
-
-#EXTINF:-1 group-title="MANTUL",Golf Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/579.ts
-
-#EXTINF:-1 group-title="MANTUL",GEM
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/50.ts
-
-#EXTINF:-1 group-title="MANTUL",TVN
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/58.ts
-
-#EXTINF:-1 group-title="MANTUL",TVN Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/416.ts
-
-#EXTINF:-1 group-title="MANTUL",Animal Planet
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/67.ts
-
-#EXTINF:-1 group-title="MANTUL",Discovery Asia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/63.ts
-
-#EXTINF:-1 group-title="MANTUL",Discovery Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/66.ts
-
-#EXTINF:-1 group-title="MANTUL",History
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/233.ts
-
-#EXTINF:-1 group-title="MANTUL",National Geographic
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/62.ts
-
-#EXTINF:-1 group-title="MANTUL",Nat Geo Wild
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/64.ts
-
-#EXTINF:-1 group-title="MANTUL",Nat Geo People
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/65.ts
-
-#EXTINF:-1 group-title="MANTUL",HGTV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/55.ts
-
-#EXTINF:-1 group-title="MANTUL",Home and Living
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/400.ts
-
-#EXTINF:-1 group-title="MANTUL",TLC
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/57.ts
-
-#EXTINF:-1 group-title="MANTUL",Aljazeera En
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/41.ts
-
-#EXTINF:-1 group-title="MANTUL",Channel V Int
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/59.ts
-
-#EXTINF:-1 group-title="MANTUL",NHK World
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/35.ts
-
-#EXTINF:-1 group-title="MANTUL",Channel News Asia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/39.ts
-
-#EXTINF:-1 group-title="MANTUL",BBC World News
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/40.ts
-
-#EXTINF:-1 group-title="MANTUL",VOA Indonesia
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/1.ts
-
-#EXTINF:-1 group-title="MANTUL",Bein Sport 1 ID
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/185.ts
-
-#EXTINF:-1 group-title="MANTUL",FOX Sport 3
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/28.ts
-
-#EXTINF:-1 group-title="MANTUL",Real Madrid TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/637.ts
-
-#EXTINF:-1 group-title="MANTUL",Olympic Channel
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/636.ts
-
-#EXTINF:-1 group-title="MANTUL",TVRI Sport
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/88.ts
-
-#EXTINF:-1 group-title="MANTUL",Liga Indonesia 2
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/621.ts
-
-#EXTINF:-1 group-title="MANTUL",Discovery Turbo
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/354.ts
-
-#EXTINF:-1 group-title="MANTUL",Arena Sport 4
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/323.ts
-
-#EXTINF:-1 group-title="MANTUL",Sport TV 3
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/551.ts
-
-#EXTINF:-1 group-title="MANTUL",Sport TV 4
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/552.ts
-
-#EXTINF:-1 group-title="MANTUL",Sport TV 5
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/553.ts
-
-#EXTINF:-1 group-title="MANTUL",NBA TV
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/358.ts
-
-#EXTINF:-1 group-title="MANTUL",Bein Sport 4
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/269.ts
