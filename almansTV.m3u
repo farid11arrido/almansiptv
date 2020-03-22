@@ -82,6 +82,13 @@ https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1
 #EXTINF:-1 group-title="TV Nasional",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 
+#EXTINF:-1 group-title="TV Nasional",JawaPos TV
+https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877477~exp=9007200839618468~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_1/chunklist.m3u8*~hmac=3c3819e57f937f9ccee81675672b11d974b2026bc8e12f4c6a3a12344cd04ec1
+
+#EXTINF:-1 group-title="TV Nasional",JakTV
+https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584878151~exp=9007200839619142~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_1/chunklist.m3u8*~hmac=10c056f0b76c2167bd3cc8f2e4a56e3291b673f2be9f9b7c59c62cba8350cd00
+
+
 
 
 
@@ -122,6 +129,12 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-
 
 #EXTINF:-1 group-title="TV Hiburan",AFN
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+
+#EXTINF:-1 group-title="TV Hiburan",Awesome
+https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877872~exp=9007200839618863~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_1/chunklist.m3u8*~hmac=44b2685d0cf3a7d182b071a4460e054a527ec86e4c69fbee1806a7ce78359868
+
+
+
 
 
 
@@ -202,6 +215,10 @@ http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 #EXTINF:-1 group-title="TV SPORT",TVRI SPORT
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 
+#EXTINF:-1 group-title="TV SPORT",Sport Illustrated
+https://livetvhooq.akamaized.net/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877556~exp=9007200839618547~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_1/chunklist.m3u8*~hmac=694770e85198beb1bcb782d9ce1a2ba1716dd360a773db865eac5c3e098db3ef
+
+
 #EXTINF:-1 group-title="TV SPORT",Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873494~exp=9007200839614485~acl=/4333904e5f68426cae808a645e882206/*/profile_1/chunklist.m3u8*~hmac=66496f3a6e3e26f41e776bef0f4c042f61687cf181e8bbda3101c3e0d60fd9e4
 
@@ -237,6 +254,15 @@ http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/MusicB
 
 #EXTINF:-1 group-title="TV Musik",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873364~exp=9007200839614355~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_1/chunklist.m3u8*~hmac=e7748c1e0b1d266f6c67093b0c21a3cbcf8eb66a45858987d40eceabae4b9b1e
+
+#EXTINF:-1 group-title="TV Musik",Baeble Music - Concert
+https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877948~exp=9007200839618939~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_1/chunklist.m3u8*~hmac=e3feb14d80fd3512a90b6020fb5337d117ae79359d67695796a7b2f5357a2bee
+
+#EXTINF:-1 group-title="TV Musik",Baeble Music - Session
+https://livetvhooq.akamaized.net/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584878063~exp=9007200839619054~acl=/94d7194614e148059bca126206f13321/*/profile_1/chunklist.m3u8*~hmac=37011e977d7be738cf09889ab7c1cc23441d2ae2c3dc9df85028cea717f3446e
+
+
+
 
 
 
@@ -275,6 +301,13 @@ https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5
 
 #EXTINF:-1 group-title="TV Berita",EuroNews
 https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873284~exp=9007200839614275~acl=/10efd311a8054e2d9b96e39460acfa8b/*/profile_1/chunklist.m3u8*~hmac=8a82425cb30376be076e6ca73ec68e374e9da56a4ee96c0b3d2b0415b78179e6
+
+#EXTINF:-1 group-title="TV Berita",DW English
+https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877711~exp=9007200839618702~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_1/chunklist.m3u8*~hmac=2578bbb17e25e156fd35cebd6b8485ad689853f0caa39e356b07b947fa1bf41e
+
+#EXTINF:-1 group-title="TV Berita",PTV4
+https://livetvhooq.akamaized.net/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877800~exp=9007200839618791~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_1/chunklist.m3u8*~hmac=8d9327f27674a4908ccb89068c7f9f81bf3166d2397084946d55e1c26ec9be5a
+
 
 
 
@@ -713,4 +746,7 @@ https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3
 
 
 
+
+#EXTINF:-1 group-title="Film BOX Office",Maleficent: Mistress of Evil
+https://r1---sn-npoe7n76.googlevideo.com/videoplayback?id=0b754dadc0fe5fbd&itag=22&source=youtube&requiressl=yes&ei=LlB3XpWoB5ytmLAP4eCRyAQ&susc=ytcp&mime=video/mp4&dur=7130.662&lmt=1584207031927969&txp=2211222&ip=0.0.0.0&ipbits=0&expire=1584906414&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source,susc&signature=4ACF5C663A43D5C15E3DAD8326EB729A8C6EDFED.2F52A44AA79A0A0E46429D3D8E74DEB2F6CE7BEA&key=cms1&access=MO7kJ%2BPWVJ0Vp9ZgL%2FpD8QZrSamD3dkug3fy1svmF1%2FO56%2FDttCXDxCy%2FVJNj3n5vb90yYsJj61n6nywGrZWPMNa4x93z3gJYnWaKZm%2BZRkokfr2czK3vPZsWshmPaXFgYBNtxZuRgRTX%2B06h7AG4natv%2BeujVvplssKqX0HTwvA%3D%3D&srcs=cached_&mh=g_&mip=103.127.65.242&mvi=0&pl=24&redirect_counter=1&cm2rm=sn-pjvo2aopq-jb3e7e&req_id=1958e6291aec36e2&cms_redirect=yes&mm=29&mn=sn-npoe7n76&ms=rdu&mt=1584878913&mv=m
 
