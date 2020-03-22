@@ -2,14 +2,14 @@
 #EXTINF:-1 group-title="TV Nasional",GLOBALTV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579294179~exp=9007200834035170~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=93e474ff98e22b9422a23737a988bf4bcc0d40089cb4ddb740a1c34e0f993454&hdnts=st=1579294179~exp=1579294299~acl=/*~id=9c8568fe-d91d-4c9b-aad3-9f571fa5af1c~data=125.166.117.142~hmac=8d900de1940b02aaca157edcfae51eb95796621e1c87598265cd5acddbe23b1b
 
-#EXTINF:-1 group-title="TV Nasional",GLOBALTV+
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3.m3u8
+#EXTINF:-1 group-title="TV Nasional Backup",GLOBALTV+
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584872817~exp=9007200839613808~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=d31026d522e979606fd2747cab2f395c19756916d243843f15e3941720167a19
 
 #EXTINF:-1 group-title="TV Nasional",MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
-#EXTINF:-1 group-title="TV Nasional",MNC TV+
-https://cvs.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3.m3u8
+#EXTINF:-1 group-title="TV Nasional Backup",MNC TV+
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584872753~exp=9007200839613744~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_1/chunklist.m3u8*~hmac=a540bc00c0ca65628f9492fe36de54b9c7ee2e813195c671ae9044c14adb25ec
 
 #EXTINF:-1 group-title="TV Nasional",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
@@ -17,22 +17,25 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 group-title="TV Nasional",RCTI SD
 http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
-#EXTINF:-1 group-title="TV Nasional",RCTI+
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5.m3u8
-
+#EXTINF:-1 group-title="TV Nasional Backup",RCTI+
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584872608~exp=9007200839613599~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_1/chunklist.m3u8*~hmac=396a97bcd4de0e1d51568c74b503ed63b3b1c650ff4b16a3a4facc6b4638eeb9
 #EXTINF:-1 group-title="TV Nasional",INews
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",INews+
+#EXTINF:-1 group-title="TV Nasional Backup",INews+
 https://dicdnali.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=3.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional Backup",Trans TV
+https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873037~exp=9007200839614028~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_1/chunklist.m3u8*~hmac=88a3566a7507e9dae4d190cb8b2652cf3b3fa4269c4e18a10ade0550b9e059dc
 
 #EXTINF:-1 group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
 #EXTINF:-1 group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional Backup",Trans 7
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584872947~exp=9007200839613938~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_1/chunklist.m3u8*~hmac=5ccaf3a7be2ad6ef61aa81d0f3d509efee2c4d9bdfdada951de053a70c13a764
 
 #EXTINF:-1 group-title="TV Nasional",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
@@ -199,6 +202,9 @@ http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 #EXTINF:-1 group-title="TV SPORT",TVRI SPORT
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 
+#EXTINF:-1 group-title="TV SPORT",Outdoor Channel
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873494~exp=9007200839614485~acl=/4333904e5f68426cae808a645e882206/*/profile_1/chunklist.m3u8*~hmac=66496f3a6e3e26f41e776bef0f4c042f61687cf181e8bbda3101c3e0d60fd9e4
+
 #EXTINF:-1 group-title="TV SPORT",TRUE EPL 1HD
 https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
 
@@ -230,7 +236,7 @@ http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Karaoke
 http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/MusicB
 
 #EXTINF:-1 group-title="TV Musik",Clubbing TV
-http://zaman-now.com/%EF%BB%BFzxtvxz%EF%BB%BF/Clubbing
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873364~exp=9007200839614355~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_1/chunklist.m3u8*~hmac=e7748c1e0b1d266f6c67093b0c21a3cbcf8eb66a45858987d40eceabae4b9b1e
 
 
 
@@ -263,6 +269,13 @@ https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
 
 #EXTINF:-1 group-title="TV Berita",BLOOMBREG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
+
+#EXTINF:-1 group-title="TV Berita",Al Jazeera
+https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873174~exp=9007200839614165~acl=/9441d4e7c9db40cba9fb1a3fc986a596/*/profile_1/chunklist.m3u8*~hmac=902a821894f0c4dcb245621bc6701a4c0362c3ed0c7deb3869f796cdd57bcb3e
+
+#EXTINF:-1 group-title="TV Berita",EuroNews
+https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873284~exp=9007200839614275~acl=/10efd311a8054e2d9b96e39460acfa8b/*/profile_1/chunklist.m3u8*~hmac=8a82425cb30376be076e6ca73ec68e374e9da56a4ee96c0b3d2b0415b78179e6
+
 
 
 
