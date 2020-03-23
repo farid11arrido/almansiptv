@@ -133,7 +133,20 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF26
 #EXTINF:-1 group-title="TV Hiburan",Awesome
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877872~exp=9007200839618863~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_1/chunklist.m3u8*~hmac=44b2685d0cf3a7d182b071a4460e054a527ec86e4c69fbee1806a7ce78359868
 
+#EXTINF:-1 group-title="TV Hiburan",MNC Lifestyle 1
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1 group-title="TV Hiburan",MNC Lifestyle 2
+http://210.210.155.66/h/h28/02.m3u8
 
+#EXTINF:-1 group-title="TV Hiburan",TV5 Monde Style 1
+http://210.210.155.66/h/h01/01.m3u8
+#EXTINF:-1 group-title="TV Hiburan",TV5 Monde Style 2
+http://210.210.155.66/h/h01/02.m3u8
+
+#EXTINF:-1 group-title="TV Hiburan",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1 group-title="TV Hiburan",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
 
 
 
@@ -186,6 +199,83 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV Film",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 group-title="TV Film",Kix 2
+http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 group-title="TV Film",Kix 3
+http://210.210.155.66/h/h07/02.m3u8
+
+#EXTINF:-1 group-title="TV Film",Hits
+http://210.210.155.66/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="TV Film",AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+#EXTINF:-1 group-title="TV Film",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 group-title="TV Film",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 group-title="TV Film",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 group-title="TV Film",group-title="Film"HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM AUTOR
+http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM ACSION
+http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM THRILLER
+http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM STINET
+http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM NJE
+http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM DY
+http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM FAMILY
+http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM KOMEDY
+http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM DRAME
+http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM 2
+http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM 7
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="TV Film",FILM BOX ARTHOUSE
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Film",Cinema World 1
+http://210.210.155.66/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="TV Film",Cinema World 2
+http://210.210.155.66/h/h04/02.m3u8
+
+#EXTINF:-1 group-title="TV Film",Celestial Movies
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -209,6 +299,12 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1,tvg-images2.useetv.com/logo_alquran_big1.png" group-title="TV RELIGI"LIVE MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
+
+#EXTINF:-1 group-title="TV RELIGI",ALQURANULKARIM
+http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+
+
 
 
 
@@ -242,6 +338,164 @@ https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
 
 #EXTINF:-1 group-title="TV SPORT",True Sport HD4
 https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",RTSH 1 HD
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",EUROSPORT 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",ARENA SPORT 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV SPORT",ARENA SPORT 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV SPORT",ARENA SPORT 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV SPORT",ARENA SPORT 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV SPORT",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",FOX Sport 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD1
+https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD2
+https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport HD3
+https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport 2
+https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Sport 7
+https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Premiere HD1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Premiere HD2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Premiere HD3
+https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Premiere HD4
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Premiere HD5
+https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",BEIN1
+https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",BEIN2
+https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Tennis
+https://tv4.chang55.com/live2/tv4ch22.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",True Golf
+https://tv4.chang55.com/live2/tv4ch08.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",NBA
+https://tv4.chang55.com/live2/tv4ch23.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Fox Sports 1 TH
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Fox Sports 2 TH
+http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Fox Sports 3 TH
+http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Eurosport 1
+https://tv4.chang55.com/live2/tv4ch45.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Eurosport 2
+http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Fightsports
+https://tv4.chang55.com/live2/tv4ch44.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",UK Premier Sports
+http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",UK attheraces
+http://160.119.77.50/iptv/uk-attheraces.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport HD
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport Plus
+https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 1
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 2
+https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 3
+https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 4
+https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 5
+https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Skynet Sport 6
+https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="TV SPORT",SKYNET SPORT 6
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+
+#EXTINF:-1 group-title="TV SPORT",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#EXTM3U
+
+#EXTINF:-1 group-title="TV SPORT",Fight Sports 1
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:-1 group-title="TV SPORT",Fight Sports 2
+http://210.210.155.66/h/h05/02.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -290,11 +544,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="TV Berita",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:-1 group-title="TV Berita",MNC News
-https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:-1 group-title="TV Berita",Channel Newsasia
+http://210.210.155.66/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="TV Berita",BLOOMBREG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
+
+#EXTINF:-1 group-title="TV Berita",Bloomberg 3
+http://210.210.155.66/h/h03/01.m3u8
 
 #EXTINF:-1 group-title="TV Berita",Al Jazeera
 https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584873174~exp=9007200839614165~acl=/9441d4e7c9db40cba9fb1a3fc986a596/*/profile_1/chunklist.m3u8*~hmac=902a821894f0c4dcb245621bc6701a4c0362c3ed0c7deb3869f796cdd57bcb3e
@@ -305,8 +562,14 @@ https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5
 #EXTINF:-1 group-title="TV Berita",DW English
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877711~exp=9007200839618702~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_1/chunklist.m3u8*~hmac=2578bbb17e25e156fd35cebd6b8485ad689853f0caa39e356b07b947fa1bf41e
 
+#EXTINF:-1 group-title="TV Berita",DW TV
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+
 #EXTINF:-1 group-title="TV Berita",PTV4
 https://livetvhooq.akamaized.net/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1584877800~exp=9007200839618791~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_1/chunklist.m3u8*~hmac=8d9327f27674a4908ccb89068c7f9f81bf3166d2397084946d55e1c26ec9be5a
+
+#EXTINF:-1 group-title="TV Berita",NHK World
+http://210.210.155.66/h/h23/01.m3u8
 
 
 
@@ -749,6 +1012,20 @@ https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3
 
 #EXTINF:-1 group-title="Film BOX Office",Maleficent: Mistress of Evil
 https://r1---sn-npoe7n76.googlevideo.com/videoplayback?id=0b754dadc0fe5fbd&itag=22&source=youtube&requiressl=yes&ei=LlB3XpWoB5ytmLAP4eCRyAQ&susc=ytcp&mime=video/mp4&dur=7130.662&lmt=1584207031927969&txp=2211222&ip=0.0.0.0&ipbits=0&expire=1584906414&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source,susc&signature=4ACF5C663A43D5C15E3DAD8326EB729A8C6EDFED.2F52A44AA79A0A0E46429D3D8E74DEB2F6CE7BEA&key=cms1&access=MO7kJ%2BPWVJ0Vp9ZgL%2FpD8QZrSamD3dkug3fy1svmF1%2FO56%2FDttCXDxCy%2FVJNj3n5vb90yYsJj61n6nywGrZWPMNa4x93z3gJYnWaKZm%2BZRkokfr2czK3vPZsWshmPaXFgYBNtxZuRgRTX%2B06h7AG4natv%2BeujVvplssKqX0HTwvA%3D%3D&srcs=cached_&mh=g_&mip=103.127.65.242&mvi=0&pl=24&redirect_counter=1&cm2rm=sn-pjvo2aopq-jb3e7e&req_id=1958e6291aec36e2&cms_redirect=yes&mm=29&mn=sn-npoe7n76&ms=rdu&mt=1584878913&mv=m
+
+#EXTINF:-1 group-title="Film BOX Office",Fast and Furious
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Film BOX Office",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 group-title="Film BOX Office",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Film BOX Office",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+
 
 
 
